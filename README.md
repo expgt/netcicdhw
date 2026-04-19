@@ -25,16 +25,19 @@
 ### Задание 1
 
 
-![Settings project](https://github.com/expgt/netcicdhw/blob/main/settings_project.png)
-![Result1](https://github.com/expgt/netcicdhw/blob/main/result1.png)
-![Result2](https://github.com/expgt/netcicdhw/blob/main/result2.png)
+![Settings project](https://github.com/expgt/netcicdhw/blob/main/settings_project1.png)
+![Result1](https://github.com/expgt/netcicdhw/blob/main/result1_1.png)
+![Result2](https://github.com/expgt/netcicdhw/blob/main/result1_2.png)
 
 ---
 
 ### Задание 2
 
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![Settings project](https://github.com/expgt/netcicdhw/blob/main/settings_project2.png)
+![Result1](https://github.com/expgt/netcicdhw/blob/main/result2_1.png)
+![Result2](https://github.com/expgt/netcicdhw/blob/main/result2_2.png)
+
 
 
 ---
